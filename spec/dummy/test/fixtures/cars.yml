@@ -1,0 +1,41 @@
+---
+stanyon:
+  id: 16
+  name: Stanyon
+  type: economy
+  base_msrp: 14000
+  doors: 4
+  created_at: 2013-03-24 01:56:16.766060000 Z
+  updated_at: 2013-03-24 01:56:16.766060000 Z
+stevella:
+  id: 17
+  name: Stevella
+  type: sedan
+  base_msrp: 18000
+  doors: 4
+  created_at: 2013-03-24 01:56:16.772389000 Z
+  updated_at: 2013-03-24 01:56:16.772389000 Z
+stang:
+  id: 18
+  name: Stang
+  type: coupe
+  base_msrp: 21000
+  doors: 2
+  created_at: 2013-03-24 01:56:16.774434000 Z
+  updated_at: 2013-03-24 01:56:16.774434000 Z
+stingle:
+  id: 19
+  name: Stingle
+  type: crossover
+  base_msrp: 25000
+  doors: 5
+  created_at: 2013-03-24 01:56:16.776346000 Z
+  updated_at: 2013-03-24 01:56:16.776346000 Z
+sturgis:
+  id: 20
+  name: Sturgis
+  type: suv
+  base_msrp: 29000
+  doors: 5
+  created_at: 2013-03-24 01:56:16.778205000 Z
+  updated_at: 2013-03-24 01:56:16.778205000 Z
