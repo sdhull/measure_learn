@@ -1,0 +1,12 @@
+= Measure/Learn
+
+This project rocks and uses MIT-LICENSE.
+
+The purpose of this project is to enable organizations -- whether they use Rails or something else -- to quickly and easily visualize their data.
+
+Primary objectives:
+ * Increase insight into trends
+ * Add an immediate payoff for those struggling to learn SQL
+
+Secondary objective:
+ * Kill Excel
